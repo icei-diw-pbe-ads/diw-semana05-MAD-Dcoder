@@ -12,10 +12,10 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Matheus Aurélio 
+- Matricula: 903094
+- Proposta de projeto escolhida: Autores e livros, pesquisadores e artigos, artistas e álbuns
+- Breve descrição sobre seu projeto: Irá reunir autores e livros, pesquisadores e artigos, e artistas com seus álbuns, promovendo a descoberta e valorização de conteúdos literários, acadêmicos e musicais. O site integra diferentes formas de expressão cultural e intelectual em um espaço acessível, dinâmico e interativo.
 
 ## Print da Home-Page
 
